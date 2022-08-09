@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Azamat.
-- 👀 I’m interested in backend development.
-- 🌱 I’m currently learning Python. (start 06/01/2022)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/azamat-abdurasulov
+Hey👋, I’m Azamat.
+👀 I am interested in backend development and am currently learning Python. (start 06/01/2022)
 
 <!---
 azamatabdurasulov/azamatabdurasulov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
